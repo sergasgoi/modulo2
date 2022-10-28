@@ -1,0 +1,36 @@
+.div1 {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    box-align: center;
+
+}
+
+.cajaiz {
+    border-radius: 50px 0px 50px 0px;
+    box-shadow: 21px 22px 27px 1px rgba(0, 0, 0, 0.69);
+    padding: 15px;
+    background: #00ff11;
+    background: linear-gradient(142deg, #00ff11 0%, #9500ff 100%);
+}
+
+.cajadr {
+    border-radius: 0px 50px 0px 50px;
+    box-shadow: -25px 24px 23px -10px rgba(0, 0, 0, 0.75);
+    padding: 15px;
+    background: #00ff11;
+    background: linear-gradient(220deg, #00ff11 0%, #9500ff 100%);
+}
+
+p {
+    font-family: Arial;
+}
+
+h1 {
+    text-decoration-line: underline;
+}
+
+img {
+    border: 2px solid black;
+}
